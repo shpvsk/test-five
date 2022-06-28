@@ -4,7 +4,6 @@
     "author": "",
     "license": "",
     "scripts": {
-        "test": "editorconfig-checker",
         "dev": "gulp",
         "build": "gulp prod --production",
         "build:views": "gulp views --production",
